@@ -1,3 +1,4 @@
+import"./"
 interface CardProps {
     price: number,
     title: string,
